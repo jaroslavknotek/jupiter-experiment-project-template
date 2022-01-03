@@ -1,0 +1,6 @@
+name: expjup
+channels:
+  - defaults
+dependencies:
+  - jupyter=1.0.0
+  - pip=21.2.4
